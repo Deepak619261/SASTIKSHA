@@ -18,6 +18,8 @@
  video url: 
  https://www.loom.com/share/e2696cb45af744ee886ec666a5ae080d
  
+ powerpoint presentation:
+ https://docs.google.com/presentation/d/1DcNtpcllwdyORpjicMvsP03LkwMDiRTX/edit?usp=sharing&ouid=117326120265142481420&rtpof=true&sd=true
   
 
   ## team details 
@@ -29,6 +31,11 @@
   3. Sukarayam janjua-DCH-8383
   4. Anjali kumari - DCH-8319
   5. Deepak kumar - deepakkumar.ic.21@nitj.ac.in
+
+  ## Problems we faced  
+  1. Payment gateway
+  2. cart feature 
+  3. Voice assistant AI 
 
   ## Anythings else 
   Video link is uploaded in the repo itself
