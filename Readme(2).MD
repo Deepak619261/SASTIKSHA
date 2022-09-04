@@ -5,18 +5,22 @@
   HTMl 
   CSS 
   Javascript
-  angular basics 
+  angular basics
+  php
 
   ## theme 
 
   Web development 
 
   ## project URL
-
+ https://github.com/SukarayamJanjua/Hacknights.git
+ 
   
 
   ## team details 
-  HACKNIGHTES -62
+  team name: HACKNIGHTES 
+  team number: 62
+  
   1. Ankit kumar- DCH-8320
   2. Roshni gupta-DCH-8321
   3. Sukarayam janjua-DCH-8383
