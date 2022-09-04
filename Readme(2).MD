@@ -13,17 +13,17 @@
 
   ## project URL
 
-
+  
 
   ## team details 
   HACKNIGHTES -62
-  1. Ankit kumar 
-  2. Roshni gupta 
-  3. Sukarayam janjua
+  1. Ankit kumar- DCH-8320
+  2. Roshni gupta-DCH-8321
+  3. Sukarayam janjua-DCH-8383
   4. Anjali kumari - DCH-8319
-  5. Deepak kumar - 
+  5. Deepak kumar - deepakkumar.ic.21@nitj.ac.in
 
   ## Anythings else 
-
+  Video link is uploaded in the repo itself
   This journey was awesome and the best learning experience ever. We chose this idea because we have seen students buying books at very expensive price.SO we choose this idea ..it was a great experience . we learned a lot of things here . we learned team work and got to know about importance of team work.
 
